@@ -1,0 +1,82 @@
+﻿using DesktopApplication.Model;
+using DesktopApplication.Pages;
+using DevExpress.DataAccess.Native.Data;
+using DevExpress.DataAccess.ObjectBinding;
+using DevExpress.XtraReports.UI;
+using Microsoft.Graph.SecurityNamespace;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Linq;
+using System.Net.Http;
+using System.Net.Http.Headers;
+using System.Windows.Forms;
+
+namespace DesktopApplication.Reports
+{
+    public partial class Dayend : DevExpress.XtraReports.UI.XtraReport
+    {
+        public Dayend()
+        {
+            InitializeComponent();
+        }
+        HttpClient client = connection.GetConnection();
+        private void Dayend_DesignerLoaded(object sender, DevExpress.XtraReports.UserDesigner.DesignerLoadedEventArgs e)
+        {
+
+        }
+        public DataSet dataSet;
+
+        private void Dayend_BeforePrint(object sender, System.Drawing.Printing.PrintEventArgs e)
+        {
+            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", Global.token);
+            var response2 = client.GetAsync("Product/IsDayStart?userId=" + Global.UserId + "&employeeId=" + Global.EmployeeId + "&isSupervisor" + true).Result;
+            var isDayStary = response2.Content.ReadAsAsync<IsDayStartLookupModel>().Result;
+            var daystartclaim = Global.modelWiseClaims.Find(x => x.TokenName == "DayStart");
+                client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", daystartclaim.Token);
+                var openingbalance = client.GetAsync("Product/OpeningBalance?counterId=" + Global.CounterId).Result;
+                var GetModuleWiseClaims = openingbalance.Content.ReadAsAsync<OpeningBalanceLookUpModel>().Result;
+                user.Text = Global.LoginUserName;
+                FromDate.Text = Global.daystart.FromTime.ToString();
+                todate.Text = DayEnd.end_time.ToString();
+                cashcounter.Text = isDayStary.CounterCode;
+                opncash.Text = isDayStary.OpeningCash.ToString();
+                cashSale.Text = isDayStary.TotalCash.ToString();
+                CashExpense.Text = isDayStary.Expense.ToString();
+                CashinHand.Text = isDayStary.CashInHand.ToString();
+                totalVAT.Text = DayEnd.VAT.ToString();
+                var bankdtl = Global.bankDetailLookUpModels;
+                SqlDataAdapter da = new SqlDataAdapter();
+                ObjectDataSource objectDataSource = new ObjectDataSource();
+                objectDataSource.DataSource = typeof(BankDetailLookUpModel);
+                objectDataSource.BeginUpdate();
+                objectDataSource.DataMember = "GetEmployeeList";
+                this.DataSource = GetModuleWiseClaims.BankDetails;
+               double? sum = GetModuleWiseClaims.BankDetails.Sum(g => Convert.ToDouble(g.TotalAmount));
+               Total_Sale.Text = " (Sales+Bank=) " + sum.ToString();
+            //var data = Global.bankDetailLookUpModels;
+            Total.Text = isDayStary.TotalCash.ToString();
+            nextdayopencash.Text = isDayStary.OpeningCash.ToString();
+            Verifycash.Text = isDayStary.CashInHand.ToString();
+            //cashcounter.Text=isDayStary.TransferHistories.ToString();
+        }
+
+        private void xrLabel13_BeforePrint(object sender, System.Drawing.Printing.PrintEventArgs e)
+        {
+
+        }
+
+        private void GroupHeader1_BeforePrint(object sender, System.Drawing.Printing.PrintEventArgs e)
+        {
+
+        }
+
+        private void pageInfo2_BeforePrint(object sender, System.Drawing.Printing.PrintEventArgs e)
+        {
+
+        }
+    }
+}

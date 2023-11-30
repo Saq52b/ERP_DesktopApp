@@ -1,0 +1,1018 @@
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.AssemblyReference.cache
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.DashBord.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Form1.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.CommingSoon.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.DailyExpense.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.DalyExpense.XtraForm2.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.DayStart.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.DayEnd.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.Inventory.ProductRegistration.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.RecievingCash.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.StartOpration.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.TransferCash.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.WareHouse.WareHouse.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Properties.Resources.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Reports.Dayend.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.ReportVierver.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.GenerateResource.cache
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.exe.licenses
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.CoreCompileInputs.cache
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.exe
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.pdb
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\OSExtensions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\roslyn\csc.exe
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\roslyn\vbc.exe
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\x86\KernelTraceControl.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\x86\KernelTraceControl.Win61.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\x86\msdia140.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\x86\msvcp140.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\x86\vcruntime140.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\amd64\KernelTraceControl.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\amd64\msdia140.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\amd64\msvcp140.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\amd64\vcruntime140.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\amd64\vcruntime140_1.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\arm64\KernelTraceControl.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\arm64\msdia140.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\arm64\msvcp140.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\arm64\vcruntime140.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\arm64\vcruntime140_1.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\TraceReloggerLib.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Dia2Lib.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.exe.config
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.exe
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.pdb
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ar\DesktopApplication.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\AutoMapper.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Azure.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\BenchmarkDotNet.Annotations.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\BenchmarkDotNet.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Castle.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CommandLine.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Dapper.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraReports.v21.2.CodeCompletion.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraReports.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v21.2.Reporting.Extensions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\EntityFramework.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Fluent.Infrastructure.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Gee.External.Capstone.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Iced.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\JetBrains.Annotations.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\jose-jwt.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\LocalStorage.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\MicroReflection.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Graph.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Google.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Nito.AsyncEx.Context.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Nito.AsyncEx.Coordination.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Nito.Collections.Deque.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Nito.Disposables.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Owin.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Perfolizer.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\RestSharp.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Serilog.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\SqlMapper.Common.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\SqlMapper.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Buffers.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.CodeDom.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Collections.Immutable.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Memory.Data.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Memory.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Security.AccessControl.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Security.Permissions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Text.Json.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.ValueTuple.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Web.Helpers.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Web.Mvc.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Web.Razor.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Web.WebPages.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Volo.Abp.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Volo.Abp.ObjectMapping.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\WebActivatorEx.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v21.2.Reporting.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\stdole.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\AutoMapper.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Azure.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\BenchmarkDotNet.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\BenchmarkDotNet.Annotations.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Castle.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\CommandLine.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Dapper.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraReports.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraReports.v21.2.CodeCompletion.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v21.2.Reporting.Extensions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\EntityFramework.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Gee.External.Capstone.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Iced.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\JetBrains.Annotations.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Graph.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Google.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Nito.AsyncEx.Context.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Nito.AsyncEx.Coordination.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Nito.AsyncEx.Tasks.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Nito.Collections.Deque.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Nito.Disposables.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\RestSharp.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Serilog.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Buffers.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.CodeDom.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Collections.Immutable.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Memory.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Memory.Data.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Security.AccessControl.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Security.Permissions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Text.Json.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.ValueTuple.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Web.Helpers.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Web.Mvc.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Web.Razor.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Web.WebPages.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Volo.Abp.Core.pdb
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Volo.Abp.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Volo.Abp.ObjectMapping.pdb
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Volo.Abp.ObjectMapping.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v21.2.Reporting.xml
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\de\DevExpress.XtraScheduler.v21.2.Reporting.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\es\DevExpress.XtraScheduler.v21.2.Reporting.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.Reporting.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.Reporting.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\ar\DesktopApplication.resources.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.CopyComplete
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.ViewInActiveCashCounter.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Loginpg.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Loginpg.ar.resources
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\FluentAssertions.dll
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\FluentAssertions.pdb
+C:\Users\TechQode Saqib\Desktop\DesktopApplication\DesktopApplication\bin\Debug\FluentAssertions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\roslyn\csc.exe
+D:\DesktopApplication\DesktopApplication\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\DesktopApplication\DesktopApplication\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DesktopApplication\DesktopApplication\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\roslyn\vbc.exe
+D:\DesktopApplication\DesktopApplication\bin\Debug\roslyn\VBCSCompiler.exe
+D:\DesktopApplication\DesktopApplication\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\DesktopApplication\DesktopApplication\bin\Debug\x86\KernelTraceControl.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\x86\KernelTraceControl.Win61.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\x86\msdia140.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\x86\msvcp140.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\x86\vcruntime140.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\amd64\KernelTraceControl.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\amd64\msdia140.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\amd64\msvcp140.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\amd64\vcruntime140.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\amd64\vcruntime140_1.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\arm64\KernelTraceControl.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\arm64\msdia140.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\arm64\msvcp140.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\arm64\vcruntime140.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\arm64\vcruntime140_1.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\TraceReloggerLib.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Dia2Lib.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\OSExtensions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.exe.config
+D:\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.exe
+D:\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.pdb
+D:\DesktopApplication\DesktopApplication\bin\Debug\ar\DesktopApplication.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\AutoMapper.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Azure.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\BenchmarkDotNet.Annotations.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\BenchmarkDotNet.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Castle.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\CommandLine.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Dapper.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\EntityFramework.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Fluent.Infrastructure.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\FluentAssertions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Gee.External.Capstone.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Iced.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\JetBrains.Annotations.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\jose-jwt.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\LocalStorage.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\MicroReflection.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.FastSerialization.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Localization.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Options.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Graph.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Graph.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Identity.Client.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Google.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Twitter.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Win32.Registry.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Newtonsoft.Json.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Nito.AsyncEx.Context.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Nito.AsyncEx.Coordination.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Nito.AsyncEx.Tasks.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Nito.Collections.Deque.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Nito.Disposables.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Owin.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Perfolizer.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\RestSharp.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Serilog.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\SqlMapper.Common.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\SqlMapper.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Buffers.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.CodeDom.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Collections.Immutable.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Linq.Dynamic.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Memory.Data.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Memory.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Net.Http.Formatting.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Net.Http.WinHttpHandler.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Numerics.Vectors.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Reflection.Metadata.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Security.AccessControl.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Security.Permissions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Security.Principal.Windows.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Text.Encodings.Web.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Text.Json.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.ValueTuple.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Web.Helpers.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Web.Mvc.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Web.Razor.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Web.WebPages.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Web.WebPages.Razor.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Volo.Abp.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Volo.Abp.ObjectMapping.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\WebActivatorEx.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Xamarin.Forms.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Xamarin.Forms.Platform.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\stdole.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\AutoMapper.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Azure.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\BenchmarkDotNet.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\BenchmarkDotNet.Annotations.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Castle.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\CommandLine.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Dapper.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\EntityFramework.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\FluentAssertions.pdb
+D:\DesktopApplication\DesktopApplication\bin\Debug\FluentAssertions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Gee.External.Capstone.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Iced.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\JetBrains.Annotations.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeAnalysis.pdb
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Identity.Stores.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Localization.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Options.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Graph.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Graph.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Identity.Client.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Google.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Owin.Security.Twitter.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Microsoft.Win32.Registry.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Newtonsoft.Json.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Nito.AsyncEx.Context.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Nito.AsyncEx.Coordination.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Nito.AsyncEx.Tasks.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Nito.Collections.Deque.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Nito.Disposables.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\RestSharp.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Serilog.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Buffers.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.CodeDom.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Collections.Immutable.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Linq.Dynamic.Core.pdb
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Linq.Dynamic.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Memory.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Memory.Data.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Net.Http.WinHttpHandler.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Numerics.Vectors.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Reflection.Metadata.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Security.AccessControl.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Security.Permissions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Security.Principal.Windows.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Text.Encodings.Web.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Text.Json.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.ValueTuple.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Web.Helpers.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Web.Mvc.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Web.Razor.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Web.WebPages.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\System.Web.WebPages.Razor.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Volo.Abp.Core.pdb
+D:\DesktopApplication\DesktopApplication\bin\Debug\Volo.Abp.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Volo.Abp.ObjectMapping.pdb
+D:\DesktopApplication\DesktopApplication\bin\Debug\Volo.Abp.ObjectMapping.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Xamarin.Forms.Core.pdb
+D:\DesktopApplication\DesktopApplication\bin\Debug\Xamarin.Forms.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\DesktopApplication\DesktopApplication\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.AssemblyReference.cache
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.DashBord.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Form1.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Loginpg.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.CommingSoon.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.DailyExpense.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.DalyExpense.XtraForm2.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.DayStart.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.DayEnd.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.Inventory.ProductRegistration.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.RecievingCash.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.StartOpration.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.TransferCash.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.ViewInActiveCashCounter.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Pages.WareHouse.WareHouse.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Properties.Resources.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Reports.Dayend.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.ReportVierver.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Loginpg.ar.resources
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.GenerateResource.cache
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.exe.licenses
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.CoreCompileInputs.cache
+D:\DesktopApplication\DesktopApplication\obj\Debug\ar\DesktopApplication.resources.dll
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.CopyComplete
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.exe
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.pdb
+D:\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.exe.manifest
+D:\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.application
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Data.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Images.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v22.2.Reporting.Extensions.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v22.2.Reporting.dll
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Data.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraReports.v22.2.CodeCompletion.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v22.2.Reporting.Extensions.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\DesktopApplication\DesktopApplication\bin\Debug\DevExpress.XtraScheduler.v22.2.Reporting.xml
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.exe.manifest
+D:\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.application
